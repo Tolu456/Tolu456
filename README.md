@@ -5,6 +5,7 @@
 I build machines that sense, decide and move: autonomous robots, PLC-controlled production lines, industrial robot cells and the embedded firmware and analysis that tie them together.
 
 🌐 Portfolio: **[tolujoshlad.wixsite.com/toluwanimi](https://tolujoshlad.wixsite.com/toluwanimi)**
+🌐 LinkedIN: **[https://www.linkedin.com/in/toluwanimi-ladigbolu/](https://www.linkedin.com/in/toluwanimi-ladigbolu/)**
 
 ## Featured projects
 | Project | Stack |
